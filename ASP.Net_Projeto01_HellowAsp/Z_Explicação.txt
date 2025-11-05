@@ -1,0 +1,53 @@
+SeuProjeto/
+?
+??? wwwroot/                   # Arquivos estáticos (CSS, JS, imagens, fontes)
+?   ??? css/
+?   ??? js/
+?   ??? lib/
+?
+??? Pages/                     # Páginas Razor (.cshtml) e seus arquivos de código (code-behind .cshtml.cs)
+?   ??? Shared/                # Partes compartilhadas entre páginas (ex: layout, partial views)
+?   ??? Error.cshtml           # Página de erro padrão
+?   ??? Index.cshtml           # Página inicial
+?   ??? Privacy.cshtml         # Exemplo de outra página
+?
+??? Properties/                # Configurações do projeto, AssemblyInfo.cs e launchSettings.json
+?
+??? appsettings.json           # Arquivo de configuração da aplicação (conexões, variáveis)
+??? Program.cs                 # Arquivo principal que configura e roda a aplicação
+??? Startup.cs (às vezes)      # Configuração do pipeline e serviços (em versões anteriores)
+??? SeuProjeto.csproj          # Arquivo do projeto (configuração do build)
+??? README.md (opcional)       # Documentação
+
+
+
+
+Detalhes importantes das pastas e arquivos
+
+->	wwwroot/:
+
+É a pasta pública onde ficam os arquivos estáticos, como CSS, JavaScript, imagens e bibliotecas (ex: Bootstrap, jQuery). Qualquer arquivo aqui pode ser acessado diretamente pelo navegador.
+
+->	Pages/:
+
+Essa é a pasta principal para Razor Pages. Cada página é composta por:
+
+- Um arquivo .cshtml (HTML + Razor)
+
+- Opcionalmente, um arquivo .cshtml.cs que contém o código C# por trás da página (page model).
+
+->	Pages/Shared/:
+
+Aqui ficam componentes compartilhados, como o _Layout.cshtml (estrutura base de todas as páginas), partial views, etc.
+
+->	appsettings.json:
+
+Configurações da aplicação, como strings de conexão, opções customizadas, níveis de log.
+
+->	Program.cs:
+
+Contém o código para iniciar e configurar a aplicação (o que você me enviou antes).
+
+->	Startup.cs (em versões anteriores do ASP.NET Core):
+
+Define os serviços e o pipeline de requisição. Em versões mais recentes, o conteúdo dele está normalmente no Program.cs.

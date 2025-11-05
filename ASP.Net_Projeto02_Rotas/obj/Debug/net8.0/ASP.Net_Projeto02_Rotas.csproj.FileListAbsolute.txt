@@ -1,0 +1,9 @@
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.RazorAssemblyInfo.cache
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.RazorAssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\Estudos\Asp.Net\ASP.Net_Projeto02_Rotas\obj\Debug\net8.0\ASP.Net_Projeto02_Rotas.sourcelink.json
