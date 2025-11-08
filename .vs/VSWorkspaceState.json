@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Asp.Net_Projeto02_Rotas\\Views",
+    "\\Asp.Net_Projeto02_Rotas\\Views\\Shared",
+    "\\Asp.Net_Projeto02_Rotas\\wwwroot",
+    "\\Asp.Net_Projeto02_Rotas\\wwwroot\\css"
   ],
+  "SelectedNode": "\\Asp.Net_Projeto02_Rotas",
   "PreviewInSolutionExplorer": false
 }
