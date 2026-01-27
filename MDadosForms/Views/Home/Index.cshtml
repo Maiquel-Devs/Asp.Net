@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Cadastro de Pessoas";
+}
+
+<h1>Cadastre-se Aqui</h1>
+
+<br>
+
+<form asp-action="Processar" method="post">
+    <input name = "Nome" placeholder="Digite seu nome" />
+    <input name = "Idade" placeholder="Digite sua idade" type="number" />
+    <button type="submit">Enviar</button>
+</form>
+
+<br>
+
+<a asp-action="MostrarCadastro">Ver Cadastros</a>

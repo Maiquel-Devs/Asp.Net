@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MRota")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MDadosForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8de09a04e4a8166d4e5a12a561993d04faeda766")]
-[assembly: System.Reflection.AssemblyProductAttribute("MRota")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MRota")]
+[assembly: System.Reflection.AssemblyProductAttribute("MDadosForms")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MDadosForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

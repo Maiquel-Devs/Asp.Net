@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Mostrar Cadastro";
+}
+
+<h1>Dados Cadastrados</h1>
+
+<ul>
+    @if (ViewBag.Pessoas != null)
+    {
+        @foreach (dynamic pessoa in ViewBag.Pessoas)
+        {
+            <li>Nome: @pessoa.Nome, Idade: @pessoa.Idade</li>
+        }
+    }
+
+</ul>
+
+<br>
+
+<a asp-action="Index">Voltar ao Cadastro</a>
