@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Mostrar Cadastro";
+}
+
+<h2>Pessoas Cadastradas</h2>
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Idade</th>
+    </tr>
+    @foreach(var pessoa in ViewBag.Pessoas)
+    {
+        <tr>
+            <td>@pessoa.Nome</td>
+            <td>@pessoa.Idade</td>
+        </tr>
+    }
+
+<br>
+
+<a asp-action="Index">Retornar à Página Inicial</a>

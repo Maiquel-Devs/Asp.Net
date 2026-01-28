@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+
+<form asp-action="Processar">
+
+    <input type = "text" name = "Nome" placeholder="Digite seu Nome" />
+    <input type="number" name = "Idade" placeholder="Digite sua Idade">
+    <button type="submit">Enviar</button>
+</form>
+
+<br>
+
+<a asp-action="MostrarCadastro">Ver Pessoas Cadastradas</a>

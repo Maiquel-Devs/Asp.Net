@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MRota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8de09a04e4a8166d4e5a12a561993d04faeda766")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42ab77ebef51b8d8c7008ff6fb6b3aa16580a0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MRota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MRota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
