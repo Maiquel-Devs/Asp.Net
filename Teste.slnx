@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="MDadosForms/MDadosForms.csproj" />
   <Project Path="MDadosForms01/MDadosForms01.csproj" />
+  <Project Path="MeuCrud/MeuCrud.csproj" />
   <Project Path="MRota/MRota.csproj" />
 </Solution>
